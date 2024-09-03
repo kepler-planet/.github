@@ -3,9 +3,11 @@
 我们一个以 Jouleverse 区块链为起点而创建的技术社区，
 
 
-![51724989027_ pic](https://github.com/user-attachments/assets/4e77b593-1fc0-4e8d-8fcb-95b71c5b0087)
+
 
 <!--
+
+![51724989027_ pic](https://github.com/user-attachments/assets/4e77b593-1fc0-4e8d-8fcb-95b71c5b0087)
 
 **Here are some ideas to get you started:**
 
